@@ -40,7 +40,7 @@ header {
 }
 
 header .logo img {
-    max-width: 120px; /* Aumentar tamaño del logo */
+    max-width: 60px; /* Aumentar tamaño del logo */
 }
 
 header h1 {
